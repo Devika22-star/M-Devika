@@ -1,4 +1,4 @@
 # M-Devika
 This is my first git repository.
 <br>
-Author - M Devika
+Author - Devika M 
